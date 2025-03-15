@@ -33,7 +33,7 @@ Pokémon data is fetched from:
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone <[repository-url](https://github.com/Sujoy-Maity-Coding/PokePedia)>
+   git clone https://github.com/Sujoy-Maity-Coding/PokePedia.git
    ```
 2. Navigate to the project directory:
    ```sh
