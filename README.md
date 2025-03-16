@@ -10,6 +10,8 @@ Pokepedia is a Flutter-based application that provides detailed information abou
 - Animated UI with Lottie
 - User-friendly experience with FlutterToast notifications
 
+![pokepedia img](https://github.com/Sujoy-Maity-Coding/PokePedia/blob/main/img.jpg)
+
 ## Tech Stack
 - **Flutter** (Dart)
 - **Firebase** (Authentication, Firestore)
@@ -52,6 +54,11 @@ Pokémon data is fetched from:
    ```sh
    flutter run
    ```
+
+## Download APK
+
+[![Download APK](https://img.shields.io/badge/Download%20APK-v1.0.0-blue?style=for-the-badge&logo=android)](https://github.com/Sujoy-Maity-Coding/PokePedia/releases/download/v1.0.0/app-release.apk)
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
